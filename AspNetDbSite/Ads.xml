@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Advertisements>
+  <Ad>
+    <ImageUrl>Img1.gif</ImageUrl>
+    <TargetUrl>http://www.cars.com</TargetUrl>
+    <AlternateText>Your new Entity?</AlternateText>
+    <Impressions>80</Impressions>
+  </Ad>
+  <Ad>
+    <ImageUrl>Img2.jpg</ImageUrl>
+    <TargetUrl>http://www.carsupersite.com/</TargetUrl>
+    <AlternateText>Like this Entity?</AlternateText>
+    <Impressions>80</Impressions>
+  </Ad>
+</Advertisements>
